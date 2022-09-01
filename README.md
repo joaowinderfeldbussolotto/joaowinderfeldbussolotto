@@ -4,7 +4,7 @@
 
 - 🔥 Computer science student
 
-- 🔭 I’m currently working at Tribunal de Contas da União (https://portal.tcu.gov.br/inicio/index.htm)
+- 🔭 I’m currently working at <a href="https://portal.tcu.gov.br/inicio/index.htm">Tribunal de Contas da União</a>
 
 - 👨‍💻 Focusing my studies in Web Development and Data Science
 
