@@ -31,10 +31,9 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-DAOSHDAHSFIHAIF
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=joaowinderfeldbussolotto&show_icons=true&theme=vision-friendly-dark" alt="joaowinderfeldbussolotto's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowinderfeldbussolotto&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=joaowinderfeldbussolotto&show_icons=true&theme=vision-friendly-dark" alt="joaowinderfeldbussolotto's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowinderfeldbussolotto&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
 <br><br>
