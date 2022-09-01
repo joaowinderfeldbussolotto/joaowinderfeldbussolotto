@@ -40,12 +40,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/joaowinderfeldbussolotto" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joaowinderfeldbussolotto-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joaowinderfeldbussolotto-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-winderfeld-bussolotto-aaa914145/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-joaowinderfeldbussolotto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
