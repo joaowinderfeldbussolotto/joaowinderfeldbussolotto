@@ -5,17 +5,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Winderfeld Bussolotto</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaowinderfeldbussolotto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Computer science student
+- 🔥 Computer Science student at <a href = "https://www.uffs.edu.br/"> Universidade Federal da Fronteira Sul </a>
 
 - 🔭 I’m currently working at <a href="https://portal.tcu.gov.br/inicio/index.htm">Tribunal de Contas da União</a>
 
 - 👨‍💻 Focusing my studies in Web Development and Data Science
 
 
-
-
-
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
