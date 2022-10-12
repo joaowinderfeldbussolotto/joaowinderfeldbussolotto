@@ -1,6 +1,9 @@
+<!---
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/joaowinderfeldbussolotto/61a1b529ad7cd2cda9d58fd7153f8eff/raw/c5059cec1959699f19d4de0172690dce20455b75/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Winderfeld Bussolotto</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaowinderfeldbussolotto&color=yellow" alt="Profile views" /> </p>
+-->
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Winderfeld Bussolotto</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joaowinderfeldbussolotto&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Computer science student
 
@@ -27,15 +30,19 @@
 ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 
 
-<br><br>
+<br>
 
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=joaowinderfeldbussolotto&show_icons=true&theme=vision-friendly-dark" alt="joaowinderfeldbussolotto's stats"/>
+<details>
+  <summary><strong>🚀 Github Stats</strong></summary>
+<p align="center">
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=joaowinderfeldbussolotto&show_icons=true&theme=vision-friendly-dark" alt="joaowinderfeldbussolotto's stats"/> <br>
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowinderfeldbussolotto&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
-<br><br>
+</details>
+
+
+<br>
 
 ## Contact
 
