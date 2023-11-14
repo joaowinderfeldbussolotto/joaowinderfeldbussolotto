@@ -7,8 +7,6 @@
 
 - 🔥 Computer Science student at <a href = "https://www.uffs.edu.br/"> Universidade Federal da Fronteira Sul </a>
 
-- 🔭 I’m currently working at <a href="https://portal.tcu.gov.br/inicio/index.htm">Tribunal de Contas da União</a>
-
 - 👨‍💻 Focusing my studies in Web Development and Data Science
 
 
@@ -18,7 +16,6 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=gree)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
