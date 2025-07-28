@@ -67,7 +67,7 @@
 
 ## 🎯 Foco Atual
 
-- **Desenvolvimento backend** com Python (FastAPI, Flask, Django), Node.js (Express, NestJS)  
+- **Desenvolvimento backend** com Python (FastAPI, Flask, Django), Node.js (Express)  
 - **IA Generativa aplicada**: RAG, **fine-tuning**, **multi-agentes**, **classificação**, **extração de dados estruturados**, **gerenciamento de contexto**, automações com LLMs  
 - **Engenharia de dados** com ferramentas open source (Airflow, Spark, DBT, Kafka) e soluções em nuvem (AWS, GCP)
 
