@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=joaowinderfeldbussolotto&color=yellow" alt="Profile views" />
 </p>
 
-🎓 Computer Science graduate from <a href="https://www.uffs.edu.br/" target="_blank">UFFS</a>
-💼 Developer focused on **backend**, **generative AI**, and **data engineering**
-☁️ Experience with scalable solutions in **AWS** and **Google Cloud Platform (GCP)**
+🎓 Computer Science graduate from <a href="https://www.uffs.edu.br/" target="_blank">UFFS</a> <br>
+💼 Developer focused on **backend**, **generative AI**, and **data engineering** <br>
+☁️ Experience with scalable solutions in **AWS** and **Google Cloud Platform (GCP)** <br>
 
 ---
 
