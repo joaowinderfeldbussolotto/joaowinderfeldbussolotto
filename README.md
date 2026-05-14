@@ -48,6 +48,9 @@
 
 ## 🚀 Featured Projects
 
+* 🧩 [**PostVenda AI — Multi-Agent After-Sales Orchestrator**](https://github.com/joaowinderfeldbussolotto/after-sales-agent-orchestrator)
+  Multi-agent **after-sales orchestration** platform for Brazilian e-commerce using **LangGraph, PydanticAI, Agno, and MCP**. Includes specialized logistics and financial agents, A2A communication, central MCP tools for order operations, and real-time chat interface integration.
+
 * 🔎 [**RAG of Ice and Fire**](https://github.com/joaowinderfeldbussolotto/rag-of-ice-and-fire)
   End-to-end **RAG system** with ChromaDB and GraphRAG, comparing vector-based and graph-based approaches. Streamlit + FastAPI interface and integration with Mistral AI for embeddings and contextual answers.
 
